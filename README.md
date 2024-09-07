@@ -2,8 +2,9 @@
 
 ## StarkNet, StarkWare tarafından geliştirilen bir Ethereum ikincil katman çözümüdür.
 
-## Merkeziyetsizliğe bir adım daha [Link](https://twitter.com/StarkWareLtd/status/1592897313273712640?s=20&t=judEK08Ud7__KUFNLiXThA)
+## Merkeziyetsizliğe bir adım daha
 
+![image](https://miro.medium.com/max/1400/1*3pFkdORoGg874-rRo5Z-2w.webp)
 
 ### Pathfinder Düğümü için Donanım Tavsiyeleri
 
@@ -162,4 +163,5 @@ zstd -T0 -d testnet_0.9.0_880310.sqlite.zst -o goerli.sqlite
   ```
 
   
-https://book.starknet.io/ch03-04-01-pathfinder-node.html
+Daha fazla bilgi için
+[Link](https://book.starknet.io/ch03-04-01-pathfinder-node.html)
