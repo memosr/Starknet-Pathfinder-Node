@@ -2,9 +2,8 @@
 
 ## StarkNet, StarkWare tarafından geliştirilen bir Ethereum ikincil katman çözümüdür.
 
-## Merkeziyetsizliğe bir adım daha
+## Merkeziyetsizliğe bir adım daha [Link](https://twitter.com/StarkWareLtd/status/1592897313273712640?s=20&t=judEK08Ud7__KUFNLiXThA)
 
-[Link](https://twitter.com/StarkWareLtd/status/1592897313273712640?s=20&t=judEK08Ud7__KUFNLiXThA)
 
 ### Pathfinder Düğümü için Donanım Tavsiyeleri
 
