@@ -70,7 +70,7 @@ sudo snap install docker
  Yeni bir Pathfinder sürümü mevcut olduğunda düğüm şu şekilde bir uyarı mesajı kaydedecektir:
 
   ```
-WARN Yeni pathfinder sürümü mevcut! Düğümünüzü güncellemeyi düşünün! release=0.4.5
+WARN New pathfinder release available! Please consider updating your node! release=0.4.5
  ```
 
 
